@@ -1,0 +1,20 @@
+# Version control
+.git
+.gitignore
+
+# Logs
+*.log
+logs/
+
+# Temporary / local files
+*.tmp
+tmp/
+.DS_Store
+.env
+.vscode/
+.idea/
+
+# Project tooling not needed inside the image
+test.sh
+grade.sh
+README.md
